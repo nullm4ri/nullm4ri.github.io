@@ -9,3 +9,6 @@ color_scheme: dark
 
 # aux_links:
 #   Template Repository: https://github.com/just-the-docs/just-the-docs-template
+
+ga_tracking: G-1C0P58KW0R
+ga_tracking_anonymize_ip: true
