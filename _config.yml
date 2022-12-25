@@ -12,3 +12,6 @@ color_scheme: dark
 
 ga_tracking: G-1C0P58KW0R
 ga_tracking_anonymize_ip: true
+
+plugins:
+  - jekyll-seo-tag
