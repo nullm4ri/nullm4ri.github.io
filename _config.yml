@@ -4,5 +4,8 @@ remote_theme: just-the-docs/just-the-docs
 
 url: https://nullm4ri.github.io
 
+# Color scheme supports "light" (default) and "dark"
+color_scheme: dark
+
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
