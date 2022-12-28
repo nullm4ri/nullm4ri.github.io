@@ -12,3 +12,7 @@ RUN gem install bundler jekyll
 RUN bundle install
 
 EXPOSE 4000
+
+# port: "4000:4000"
+# command: bundle exec jekyll serve --config pages/_config_local.yml -H 0.0.0.0 -t`
+# mount: ".:/usr/src/app/pages"
