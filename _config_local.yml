@@ -1,0 +1,16 @@
+title: Suhyun Kim
+description: Suhyun's development blog
+theme: just-the-docs
+
+baseurl: ""
+url: ""
+
+color_scheme: dark
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-multiple-languages-plugin
+  - jemoji
+
+languages: ["en", "kr"]
+exclude_from_localizations: ["javascript", "images", "css", 'assets','bin']
